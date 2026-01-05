@@ -9,9 +9,11 @@
      <img src="https://file.garden/aVs3PFllln9k2JK1/Untitled134_20260105000538.PNG"%7Bwidth=800px height=800px}/>
 </p>
 
-### LINKS !!
+<div align="center">
 
-### <a href="https://rentry.co/mavuikss" target="_blank">RENTRY</a>    '   <a href="https://mavuikaistic.straw.page/" target="_blank">STRAWPAGE</a>   '   <a href="https://mavulka.atabook.org/" target="_blank">ATABOOK</a>  '   <a href="https://x.com/mavuikaistic" target="_blank">TWITTER</a>
+#### LINKS !!
+   #### <a href="https://rentry.co/mavuikss" target="_blank">RENTRY</a>    '   <a href="https://mavuikaistic.straw.page/" target="_blank">STRAWPAGE</a>   '   <a href="https://mavulka.atabook.org/" target="_blank">ATABOOK</a>  '   <a href="https://x.com/mavuikaistic" target="_blank">TWITTER</a>
+<p align="center">
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
