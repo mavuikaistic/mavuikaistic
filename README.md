@@ -1,4 +1,4 @@
-#
+###### Best viewed on PC, Graphic will otherwise be resized accordingly to the tab size.
 <div align="center">
    
 ### "Let your flame burn brighter, can't you see it's now or never?"
