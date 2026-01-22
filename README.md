@@ -12,7 +12,7 @@
 <div align="center">
 
 #### LINKS !!
-   #### <a href="https://rentry.co/mavuikss" target="_blank">RENTRY</a>    '   <a href="https://mavuikaistic.straw.page/" target="_blank">STRAWPAGE</a>   '   <a href="https://mavulka.atabook.org/" target="_blank">ATABOOK</a>  '   <a href="https://x.com/mavuikaistic" target="_blank">TWITTER</a>
+   #### <a href="https://rentry.org/mavuikss" target="_blank">RENTRY</a>    '   <a href="https://mavuikaistic.straw.page/" target="_blank">STRAWPAGE</a>   '   <a href="https://mavulka.atabook.org/" target="_blank">ATABOOK</a>  '   <a href="https://x.com/mavuikaistic" target="_blank">TWITTER</a>
 <p align="center">
 
 <p align="center">
