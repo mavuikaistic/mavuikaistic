@@ -6,7 +6,7 @@
  </div>
 
 <p align="center">
-     <img src="https://file.garden/aVs3PFllln9k2JK1/Untitled134_20260105000538.PNG"%7Bwidth=800px height=800px}/>
+     <img src="https://files.catbox.moe/m81hdd.PNG"/>
 </p>
 
 <div align="center">
